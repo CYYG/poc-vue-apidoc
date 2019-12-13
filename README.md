@@ -1,6 +1,7 @@
-# vuealadoc
+# POC VueJS Dev Portal
 
-> A Vue.js project
+> Cette doc utilise VueJS ainsi que le composant Redoc (React)
+> Elle peut intégrer les API de Confluence pour le Guide
 
 ## Build Setup
 
