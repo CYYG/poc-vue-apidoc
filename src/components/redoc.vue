@@ -5,7 +5,6 @@
 </template>
 
 <script>
-import { ReactInVue } from 'vuera'
 import { RedocStandalone } from 'redoc';
 
 export default {
