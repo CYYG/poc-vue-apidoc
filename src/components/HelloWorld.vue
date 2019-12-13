@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h2>Cette doc utilise le composant Redoc</h2>
+    <h2>Cette doc utilise VueJS ainsi que le composant Redoc (React)</h2>
     <h2>Elle peut intégrer les API de Confluence pour le guide</h2>
   </div>
 </template>
