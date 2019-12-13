@@ -1,7 +1,7 @@
 # POC VueJS Dev Portal
 
-> Cette doc utilise VueJS ainsi que le composant Redoc (React)
-> Elle peut intégrer les API de Confluence pour le Guide
+- Cette doc utilise VueJS ainsi que le composant Redoc (React)
+- Elle peut intégrer les API de Confluence pour le Guide
 
 ## Build Setup
 
